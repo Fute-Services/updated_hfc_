@@ -6,3 +6,6 @@ large filter=lfs diff=lfs merge=lfs -text
 files filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+
+# Small videos in public/ are stored as regular git files (served directly by Vercel)
+public/videos/** !filter !diff !merge -text

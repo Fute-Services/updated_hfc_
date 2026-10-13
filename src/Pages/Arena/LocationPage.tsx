@@ -1,6 +1,5 @@
 import bgImage from '../../assets/projecthighexterior.webp';
 import Header from '../../components/Header';
-import location from '../../videos/01_location.mp4';
 import { Link } from 'react-router-dom'
 
 export default function LocationPage() {
@@ -24,7 +23,7 @@ export default function LocationPage() {
           }}
         >
           <video
-            src={location}
+            src="/videos/01_location.mp4"
             autoPlay
             muted
             loop
