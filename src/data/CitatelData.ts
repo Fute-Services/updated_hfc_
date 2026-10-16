@@ -123,7 +123,7 @@ export const floors = [
             {
                 id: 101,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -190,7 +190,7 @@ export const floors = [
             {
                 id: 102,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -256,7 +256,7 @@ export const floors = [
             {
                 id: 103,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -339,7 +339,7 @@ export const floors = [
             {
                 id: 104,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -444,7 +444,7 @@ export const floors = [
             {
                 id: 201,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -511,7 +511,7 @@ export const floors = [
             {
                 id: 202,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -577,7 +577,7 @@ export const floors = [
             {
                 id: 203,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -660,7 +660,7 @@ export const floors = [
             {
                 id: 204,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -765,7 +765,7 @@ export const floors = [
             {
                 id:301,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -832,7 +832,7 @@ export const floors = [
             {
                 id: 302,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -898,7 +898,7 @@ export const floors = [
             {
                 id: 303,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -981,7 +981,7 @@ export const floors = [
             {
                 id: 304,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -1086,7 +1086,7 @@ export const floors = [
             {
                 id: 401,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -1153,7 +1153,7 @@ export const floors = [
             {
                 id: 402,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -1219,7 +1219,7 @@ export const floors = [
             {
                 id: 403,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -1302,7 +1302,7 @@ export const floors = [
             {
                 id: 404,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -1406,7 +1406,7 @@ export const floors = [
             {
                 id: 501,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -1473,7 +1473,7 @@ export const floors = [
             {
                 id: 502,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -1539,7 +1539,7 @@ export const floors = [
             {
                 id: 503,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -1622,7 +1622,7 @@ export const floors = [
             {
                 id: 504,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -1726,7 +1726,7 @@ export const floors = [
             {
                 id: 601,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -1793,7 +1793,7 @@ export const floors = [
             {
                 id: 602,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -1859,7 +1859,7 @@ export const floors = [
             {
                 id: 603,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -1942,7 +1942,7 @@ export const floors = [
             {
                 id: 604,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -2046,7 +2046,7 @@ export const floors = [
             {
                 id: 801,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -2113,7 +2113,7 @@ export const floors = [
             {
                 id: 802,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -2179,7 +2179,7 @@ export const floors = [
             {
                 id: 803,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -2262,7 +2262,7 @@ export const floors = [
             {
                 id: 804,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -2366,7 +2366,7 @@ export const floors = [
             {
                 id: 901,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -2433,7 +2433,7 @@ export const floors = [
             {
                 id: 902,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -2499,7 +2499,7 @@ export const floors = [
             {
                 id: 903,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -2582,7 +2582,7 @@ export const floors = [
             {
                 id: 904,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -2686,7 +2686,7 @@ export const floors = [
             {
                 id: 1001,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -2753,7 +2753,7 @@ export const floors = [
             {
                 id: 1002,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -2819,7 +2819,7 @@ export const floors = [
             {
                 id: 1003,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -2902,7 +2902,7 @@ export const floors = [
             {
                 id: 1004,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -3006,7 +3006,7 @@ export const floors = [
             {
                 id: 1101,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -3073,7 +3073,7 @@ export const floors = [
             {
                 id: 1102,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -3139,7 +3139,7 @@ export const floors = [
             {
                 id: 1103,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -3222,7 +3222,7 @@ export const floors = [
             {
                 id: 1104,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -3326,7 +3326,7 @@ export const floors = [
             {
                 id: 1301,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -3393,7 +3393,7 @@ export const floors = [
             {
                 id: 1302,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -3459,7 +3459,7 @@ export const floors = [
             {
                 id: 1303,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -3542,7 +3542,7 @@ export const floors = [
             {
                 id: 1304,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -3645,7 +3645,7 @@ export const floors = [
             {
                 id: 1401,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -3712,7 +3712,7 @@ export const floors = [
             {
                 id: 1402,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -3778,7 +3778,7 @@ export const floors = [
             {
                 id: 1403,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -3861,7 +3861,7 @@ export const floors = [
             {
                 id: 1404,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -3965,7 +3965,7 @@ export const floors = [
             {
                 id: 1501,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -4032,7 +4032,7 @@ export const floors = [
             {
                 id: 1502,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -4098,7 +4098,7 @@ export const floors = [
             {
                 id: 1503,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -4181,7 +4181,7 @@ export const floors = [
             {
                 id: 1504,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -4285,7 +4285,7 @@ export const floors = [
             {
                 id: 1601,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -4352,7 +4352,7 @@ export const floors = [
             {
                 id: 1602,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -4418,7 +4418,7 @@ export const floors = [
             {
                 id: 1603,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -4501,7 +4501,7 @@ export const floors = [
             {
                 id: 1604,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -4604,7 +4604,7 @@ export const floors = [
             {
                 id: 1801,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -4671,7 +4671,7 @@ export const floors = [
             {
                 id: 1802,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -4737,7 +4737,7 @@ export const floors = [
             {
                 id: 1803,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -4820,7 +4820,7 @@ export const floors = [
             {
                 id: 1804,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -4923,7 +4923,7 @@ export const floors = [
             {
                 id: 1901,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -4990,7 +4990,7 @@ export const floors = [
             {
                 id: 1902,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -5056,7 +5056,7 @@ export const floors = [
             {
                 id: 1903,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -5139,7 +5139,7 @@ export const floors = [
             {
                 id: 1904,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -5243,7 +5243,7 @@ export const floors = [
             {
                 id: 2001,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -5310,7 +5310,7 @@ export const floors = [
             {
                 id: 2002,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -5376,7 +5376,7 @@ export const floors = [
             {
                 id: 2003,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -5459,7 +5459,7 @@ export const floors = [
             {
                 id: 2004,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -5562,7 +5562,7 @@ export const floors = [
             {
                 id: 2101,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -5629,7 +5629,7 @@ export const floors = [
             {
                 id: 2102,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -5695,7 +5695,7 @@ export const floors = [
             {
                 id: 2103,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -5778,7 +5778,7 @@ export const floors = [
             {
                 id: 2104,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -5882,7 +5882,7 @@ export const floors = [
             {
                 id: 2301,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -5949,7 +5949,7 @@ export const floors = [
             {
                 id: 2302,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -6015,7 +6015,7 @@ export const floors = [
             {
                 id: 2303,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -6098,7 +6098,7 @@ export const floors = [
             {
                 id: 2304,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -6202,7 +6202,7 @@ export const floors = [
             {
                 id: 2401,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -6269,7 +6269,7 @@ export const floors = [
             {
                 id: 2402,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -6335,7 +6335,7 @@ export const floors = [
             {
                 id: 2403,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -6418,7 +6418,7 @@ export const floors = [
             {
                 id: 2404,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -6522,7 +6522,7 @@ export const floors = [
             {
                 id: 2501,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -6589,7 +6589,7 @@ export const floors = [
             {
                 id: 2502,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -6655,7 +6655,7 @@ export const floors = [
             {
                 id: 2503,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -6738,7 +6738,7 @@ export const floors = [
             {
                 id: 2504,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -6842,7 +6842,7 @@ export const floors = [
             {
                 id: 2601,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -6909,7 +6909,7 @@ export const floors = [
             {
                 id: 2602,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -6975,7 +6975,7 @@ export const floors = [
             {
                 id: 2603,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -7058,7 +7058,7 @@ export const floors = [
             {
                 id: 2604,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -7161,7 +7161,7 @@ export const floors = [
             {
                 id: 2801,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -7228,7 +7228,7 @@ export const floors = [
             {
                 id: 2802,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -7294,7 +7294,7 @@ export const floors = [
             {
                 id: 2803,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -7377,7 +7377,7 @@ export const floors = [
             {
                 id: 2804,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -7481,7 +7481,7 @@ export const floors = [
             {
                 id: 2901,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -7548,7 +7548,7 @@ export const floors = [
             {
                 id: 2902,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -7614,7 +7614,7 @@ export const floors = [
             {
                 id: 2903,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -7697,7 +7697,7 @@ export const floors = [
             {
                 id: 2904,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -7802,7 +7802,7 @@ export const floors = [
             {
                 id: 3001,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -7869,7 +7869,7 @@ export const floors = [
             {
                 id: 3002,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -7935,7 +7935,7 @@ export const floors = [
             {
                 id: 3003,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -8018,7 +8018,7 @@ export const floors = [
             {
                 id: 3004,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -8122,7 +8122,7 @@ export const floors = [
             {
                 id: 3101,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -8189,7 +8189,7 @@ export const floors = [
             {
                 id: 3102,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -8255,7 +8255,7 @@ export const floors = [
             {
                 id: 3103,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -8338,7 +8338,7 @@ export const floors = [
             {
                 id: 3104,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -8441,7 +8441,7 @@ export const floors = [
             {
                 id: 3301,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -8508,7 +8508,7 @@ export const floors = [
             {
                 id: 3302,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -8574,7 +8574,7 @@ export const floors = [
             {
                 id: 3303,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -8657,7 +8657,7 @@ export const floors = [
             {
                 id: 3304,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -8761,7 +8761,7 @@ export const floors = [
             {
                 id: 3401,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -8828,7 +8828,7 @@ export const floors = [
             {
                 id: 3402,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -8894,7 +8894,7 @@ export const floors = [
             {
                 id: 3403,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -8977,7 +8977,7 @@ export const floors = [
             {
                 id: 3404,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -9081,7 +9081,7 @@ export const floors = [
             {
                 id: 3501,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -9148,7 +9148,7 @@ export const floors = [
             {
                 id: 3502,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -9214,7 +9214,7 @@ export const floors = [
             {
                 id: 3503,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -9297,7 +9297,7 @@ export const floors = [
             {
                 id: 3504,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -9401,7 +9401,7 @@ export const floors = [
             {
                 id: 3601,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -9468,7 +9468,7 @@ export const floors = [
             {
                 id: 3602,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -9534,7 +9534,7 @@ export const floors = [
             {
                 id: 3603,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -9617,7 +9617,7 @@ export const floors = [
             {
                 id: 3604,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -9722,7 +9722,7 @@ export const floors = [
             {
                 id: 3801,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -9789,7 +9789,7 @@ export const floors = [
             {
                 id: 3802,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -9855,7 +9855,7 @@ export const floors = [
             {
                 id: 3803,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -9938,7 +9938,7 @@ export const floors = [
             {
                 id: 3804,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -10041,7 +10041,7 @@ export const floors = [
             {
                 id: 3901,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -10108,7 +10108,7 @@ export const floors = [
             {
                 id: 3902,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -10174,7 +10174,7 @@ export const floors = [
             {
                 id: 3903,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -10257,7 +10257,7 @@ export const floors = [
             {
                 id: 3904,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
@@ -10360,7 +10360,7 @@ export const floors = [
             {
                 id: 4001,
                 name: "Unit No-1",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -10427,7 +10427,7 @@ export const floors = [
             {
                 id: 4002,
                 name: "Unit No-2",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(0,255,229,0.3)",
 
@@ -10493,7 +10493,7 @@ export const floors = [
             {
                 id: 4003,
                 name: "Unit No-3",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
                 polygonPoints:
@@ -10576,7 +10576,7 @@ export const floors = [
             {
                 id: 4004,
                 name: "Unit No-4",
-                type: "3 BHK",
+                type: "4 BHK",
                 size: "1400 sq.ft",
                 hoverColor: "rgba(236,169,247,0.4)",
 
