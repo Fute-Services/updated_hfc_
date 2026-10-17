@@ -7289,7 +7289,6 @@ export const floors = [
             imageHeight: "2813",
         },
         buttonSettings: {
-            fourBHK: { bgColor: "#eca9f7", text: "4BHK" },
             threeBHK: { bgColor: "#00ffe5", text: "3BHK" },
         },
         units: [
@@ -7531,7 +7530,6 @@ export const floors = [
             imageHeight: "2813",
         },
         buttonSettings: {
-            fourBHK: { bgColor: "#eca9f7", text: "4BHK" },
             threeBHK: { bgColor: "#00ffe5", text: "3BHK" },
         },
          units: [
@@ -7774,7 +7772,6 @@ export const floors = [
             imageHeight: "2813",
         },
         buttonSettings: {
-            fourBHK: { bgColor: "#eca9f7", text: "4BHK" },
             threeBHK: { bgColor: "#00ffe5", text: "3BHK" },
         },
         units: [
@@ -8016,7 +8013,6 @@ export const floors = [
             imageHeight: "2813",
         },
         buttonSettings: {
-            fourBHK: { bgColor: "#eca9f7", text: "4BHK" },
             threeBHK: { bgColor: "#00ffe5", text: "3BHK" },
         },
          units: [
@@ -8258,7 +8254,6 @@ export const floors = [
             imageHeight: "2813",
         },
         buttonSettings: {
-            fourBHK: { bgColor: "#eca9f7", text: "4BHK" },
             threeBHK: { bgColor: "#00ffe5", text: "3BHK" },
         },
          units: [
@@ -8500,7 +8495,6 @@ export const floors = [
             imageHeight: "2813",
         },
         buttonSettings: {
-            fourBHK: { bgColor: "#eca9f7", text: "4BHK" },
             threeBHK: { bgColor: "#00ffe5", text: "3BHK" },
         },
         units: [
@@ -8989,7 +8983,6 @@ export const floors = [
             imageHeight: "2813",
         },
         buttonSettings: {
-            fourBHK: { bgColor: "#eca9f7", text: "4BHK" },
             threeBHK: { bgColor: "#00ffe5", text: "3BHK" },
         },
           units: [
@@ -9475,7 +9468,6 @@ export const floors = [
             imageHeight: "2813",
         },
         buttonSettings: {
-            fourBHK: { bgColor: "#eca9f7", text: "4BHK" },
             threeBHK: { bgColor: "#00ffe5", text: "3BHK" },
         },
          units: [
